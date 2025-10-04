@@ -61,21 +61,17 @@ Chosen for its strong performance on text classification tasks and ability to ha
 ## 💻 Installation & Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/internship-detection.git
+   git clone https://github.com/Fatimibee/internship_detection
    cd internship-detection
    ```
 
-2. **Install dependencies**
+
+2. **Run the Streamlit App**
    ```bash
-   pip install -r requirements.txt
+   streamlit run page.py
    ```
 
-3. **Run the Streamlit App**
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **Paste internship text** into the input box and view prediction instantly!
+3. **Paste internship text** into the input box and view prediction instantly!
 
 ## 📈 Model Performance
 | Metric | Score |
